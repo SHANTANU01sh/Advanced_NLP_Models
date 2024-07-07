@@ -12,6 +12,8 @@ This repository features advanced NLP models for binary and multiclass classific
   - BERT model for multiclass classification (Task 3).
 - **LaBSE(Binary_Classification).ipynb**
   - LaBSE model for binary classification.
+- **LaBSE(Multiclass_Classification_Task_2).ipynb**
+  - LaBSE model for multiclass classification (Task 2).
 - **LaBSE(Multiclass_Classification_Task_3).ipynb**
   - LaBSE model for multiclass classification (Task 3).
 
